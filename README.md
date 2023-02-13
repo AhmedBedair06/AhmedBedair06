@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedBedair06
 - 🌱 I’m currently learning Computers & Control Systems Engineering
-- 👀 I’m interested in Data Science & Web Development
+- 👀 I’m interested in Data Science and eager to learn more about it's applications
 
 <!---
 AhmedBedair06/AhmedBedair06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
